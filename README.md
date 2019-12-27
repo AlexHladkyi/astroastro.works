@@ -1,2 +1,2 @@
 # astroastro.works
-Portfolio of a designer Alex Hladkyi https://astroastro.works
+Alex Hladkyi's Design Portfolio https://astroastro.works
