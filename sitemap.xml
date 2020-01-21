@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
+        <loc>https://astroastro.works/work/app-icons-collection.html</loc>
+    </url>
+    <url>
+        <loc>https://astroastro.works/work/dashboard-updates-for-zyda.html</loc>
+    </url>
+    <url>
+        <loc>https://astroastro.works/work/mobile-app-concept-for-winnipeg.html</loc>
+    </url>
+    <url>
+        <loc>https://astroastro.works/work/mobile-app-for-attorneys-on-demand.html</loc>
+    </url>
+    <url>
+        <loc>https://astroastro.works/work/sports-teams-fan-engagement-app.html</loc>
+    </url>
+    <url>
+        <loc>https://astroastro.works/work/swipify-ios-app.html</loc>
+    </url>
+    <url>
+        <loc>https://astroastro.works/work/techaplooza-festival.html</loc>
+    </url>
+    <url>
         <loc>https://astroastro.works/404.html</loc>
     </url>
     <url>
@@ -10,6 +31,6 @@
         <loc>https://astroastro.works/index.html</loc>
     </url>
     <url>
-        <loc>https://astroastro.works/winnipeg-smart-city.html</loc>
+        <loc>https://astroastro.works/tmp.html</loc>
     </url>
 </urlset>
