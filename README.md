@@ -1,2 +1,2 @@
 # astroastro.works
-Corrupted. Mirror available at https://alexhladkyi.com
+http://astroastro.works corrupted, mirror available at http://alexhladkyi.com
